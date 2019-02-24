@@ -1,0 +1,15 @@
+25  git init
+   26  yum install git
+   27  git init
+   53     25  git init
+   54     26  yum install git
+   55     27  git init
+   58  git status
+   60  git add linuxcommands.txt
+   61  git status
+   62  git commit -m"my first commit"
+   63  git status
+   64  git remote add origin https://github.com/kishorgithub1/kishor.git
+   65  git push -u origin master
+   66  history | grep git
+

@@ -1,0 +1,30 @@
+cd/var/log
+    2  cd /var/log
+    3  ls -ltr
+    4  less cloud-init-output.log
+    5  service httpd start
+    6  service httpd status
+    7  cat .ssh/authorized_keys
+    8  whoami
+    9  cd whoam
+   10  cd /opt
+   11  ls
+   12  cd aws
+   13  ls
+   14  touch d
+   15  ls
+   16  vi d
+   17  cat d
+   18  cd /opt
+   19  cd
+   20  ls
+   21  ssh root@172.31.34.207
+   22  ssh root@ec2-18-188-30-130.us-east-2.compute.amazonaws.com
+   23  mkdir -p /opt/devops
+   24  mkdir -p /opt/devops && cd /opt/devops
+   25  git init
+   26  yum install git
+   27  git init
+   28  history
+:wq
+
